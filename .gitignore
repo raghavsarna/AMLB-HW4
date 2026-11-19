@@ -1,0 +1,6 @@
+# the supplied course data are not redistributed: place the course's data/ folder next to these scripts
+data/
+HW4_handout.md
+SUBMISSION.md
+__pycache__/
+.DS_Store
